@@ -38,3 +38,15 @@ Parvathy Sankaraseshan.
 
 Trashway Turfers reimagines waste management as an engaging game, inspiring players to act responsibly while having fun—where every step counts toward a cleaner tomorrow.
 THANK YOU
+
+
+trashway_turfers/
+│
+├── main.py                    # Main game file
+├── assets/                    # All asset files
+│   ├── images/                # Game images (sprites, backgrounds, etc.)
+│   ├── videos/                # Story mode or intro videos (MP4 or similar)
+│   ├── music/                 # Background music and sound effects
+│   └── fonts/                 # Custom fonts used in the game
+│
+└── README.md                  # (Optional) Project description and instructions
